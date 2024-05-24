@@ -18,3 +18,13 @@ Os usuários podem solicitar a exclusão de seus dados enviando um e-mail para [
 
 ## Contato
 Se tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco em [jrobisondeoliveira@gmail.com].
+
+## Exclusão de Dados do Usuário
+
+Os usuários podem solicitar a exclusão de seus dados pessoais armazenados em nossos servidores. Para solicitar a exclusão de seus dados, envie um e-mail para [jrobisondeoliveira@gmail.com] com o assunto "Exclusão de Dados". Inclua no corpo do e-mail as seguintes informações:
+
+1. Nome completo
+2. Endereço de e-mail usado para se registrar no aplicativo
+3. Motivo da solicitação (opcional)
+
+Responderemos à sua solicitação em até 30 dias úteis.
