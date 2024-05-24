@@ -1,0 +1,20 @@
+# Política de Privacidade 
+Assistente Comunitário de Doação e Voluntariado
+
+## Introdução
+Nossa Política de Privacidade explica como coletamos, usamos e protegemos os dados pessoais dos usuários.
+
+## Informações Coletadas
+Coletamos informações como nome, endereço de e-mail e dados de login através do Facebook para fornecer acesso ao nosso aplicativo.
+
+## Uso das Informações
+Usamos as informações coletadas para autenticação de usuário e melhorar nossos serviços.
+
+## Proteção das Informações
+Adotamos medidas de segurança para proteger as informações dos usuários contra acesso não autorizado.
+
+## Exclusão de Dados
+Os usuários podem solicitar a exclusão de seus dados enviando um e-mail para [seu-email@dominio.com].
+
+## Contato
+Se tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco em [jrobisondeoliveira@gmail.com].
